@@ -1,10 +1,15 @@
-# Meesho DICE Season 3 — Reducing RTO
+# Team kuch_bhi — Meesho DICE Challenge Season 3
+### Indian Institute of Technology Guwahati (IIT Guwahati)
 
 A product solution built for the **Meesho DICE Challenge Season 3** to reduce Return-to-Origin (RTO) and get more orders delivered successfully.
 
 ## Working Prototype
 
+**Live Prototype:**  
 [Open the Prototype](https://meeshodiceprototype.lovable.app/)
+
+**Prototype Source Code:**  
+[View Prototype Code](./prototype)
 
 ## The Problem
 
@@ -86,4 +91,5 @@ Our current estimate of **~3.3 fewer RTOs per 100 orders** is a hypothesis to be
 ## Links
 
 - [Working Prototype](https://meeshodiceprototype.lovable.app/)
+- [Prototype Source Code](./prototype)
 - [GitHub Repository](https://github.com/Ayush7066/Meesho_Dice_Season3)
